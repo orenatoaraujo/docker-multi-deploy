@@ -12,7 +12,7 @@ function App() {
           <img src={logo} className="App-logo" alt="logo" />
           <div>
             <Link to="/">Home</Link>
-            <Link to="/otherpage">About</Link>
+            <Link to="/otherpage">About us</Link>
           </div>
         </header>
         <div>
